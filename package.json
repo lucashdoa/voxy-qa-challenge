@@ -1,0 +1,24 @@
+{
+  "name": "voxy-qa-challenge",
+  "version": "1.0.0",
+  "description": "👨‍🎓 Technical challenge for a QA role at Voxy.",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress run",
+    "cypress": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashdoa/voxy-qa-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashdoa/voxy-qa-challenge/issues"
+  },
+  "homepage": "https://github.com/lucashdoa/voxy-qa-challenge#readme"
+}
